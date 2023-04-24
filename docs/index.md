@@ -1,8 +1,10 @@
 
-# The Global Soil Mycobiome consortium
+# The Global Soil Microbiome consortium
 
 ## About
 
-## Header 2
+## Publications
+
+Collaborators
 
 
