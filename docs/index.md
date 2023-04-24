@@ -1,5 +1,5 @@
 
-# The Global Soil Microbiome consortium
+# The Global Soil Mycobiome consortium
 
 ## About
 
