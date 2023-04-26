@@ -10,16 +10,17 @@ repo_name: "GSMc-Fungi/GSMc-Fungi.github.io"
 
 theme:
   name: material
-  palette:
+  custom_dir: material
+  palette:               # https://www.materialpalette.com/colors
     - scheme: default
       primary: indigo
-      accent: indigo
+      accent:  indigo
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - scheme: slate
-      primary: red
-      accent: red
+      primary: teal
+      accent:  teal
       toggle:
         icon: material/weather-night
         name: Switch to light mode
