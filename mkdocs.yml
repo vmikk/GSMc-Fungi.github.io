@@ -4,8 +4,9 @@ site_author: Jane Lees, Vladimir Mikryukov
 site_description: GSMc - The Global Soil Mycobiome consortium
 copyright: "Copyright © 2023 GSMc. All rights reserved."
 
-site_url: https://GSMc-Fungi.github.io/
-repo_url: https://github.com/GSMc-Fungi/GSMc-Fungi.github.io
+site_url:  https://GSMc-Fungi.github.io/
+repo_url:  https://github.com/GSMc-Fungi/GSMc-Fungi.github.io
+repo_name: "GSMc-Fungi/GSMc-Fungi.github.io"
 
 theme:
   name: material
