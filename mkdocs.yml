@@ -29,6 +29,15 @@ theme:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'
   features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - header.autohide
+    - content.action.edit
+    - content.code.annotate
 
 markdown_extensions:
   - attr_list
