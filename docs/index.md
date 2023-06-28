@@ -53,11 +53,4 @@ Vasar M, Davison J, Moora M, Sepp SK, Anslan S, Al-Quraishy S, Bahram M, Bueno C
 
 
 
-
-| A  | B  |           |   |   |
-|----|----|-----------|---|---|
-| dd | dd |           |   |   |
-| dd |    |           |   |   |
-|    |    | sdfghjklö |   |   |
-
 ....
