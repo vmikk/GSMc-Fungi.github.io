@@ -62,5 +62,6 @@ markdown_extensions:
 
 nav:
   - 'About':         'index.md'
+  - 'Sampling map':  'sampling_map.md'
   - 'Publications':  'publications.md'
   - 'Projects':      'projects.md'
