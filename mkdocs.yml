@@ -33,9 +33,9 @@ theme:
     - navigation.tabs.sticky
     - navigation.instant
     - navigation.tracking
-    - navigation.indexes
-    - navigation.top
-    - navigation.footer
+    # - navigation.indexes
+    # - navigation.top
+    # - navigation.footer
     - header.autohide
     - content.action.edit
     - content.code.annotate
