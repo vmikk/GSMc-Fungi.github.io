@@ -30,6 +30,7 @@ theme:
     code: 'Ubuntu Mono'
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
     - navigation.tracking
     - navigation.indexes
@@ -38,6 +39,9 @@ theme:
     - header.autohide
     - content.action.edit
     - content.code.annotate
+
+hide:
+  - navigation
 
 markdown_extensions:
   - attr_list
