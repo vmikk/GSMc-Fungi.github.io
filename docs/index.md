@@ -36,9 +36,9 @@ Funding of the fieldwork and shipping comes from the GSMc partners. Molecular wo
 ## Publications
 **Core publications**
 
-Tedersoo, L., Mikryukov, V., Anslan, S. et al. The Global Soil Mycobiome consortium dataset for boosting fungal diversity research. Fungal Diversity 111, 573–588 (2021). https://doi.org/10.1007/s13225-021-00493-7
+Tedersoo, L., Mikryukov, V., Anslan, S. _et al.,_ 2021.The Global Soil Mycobiome consortium dataset for boosting fungal diversity research. Fungal Diversity 111, 573–588. https://doi.org/10.1007/s13225-021-00493-7
 
-Tedersoo, L. et al., 2022. Global patterns in endemicity and vulnerability of soil fungi. https://doi.org/10.1111/gcb.16398 
+Tedersoo, L. _et al._, 2022. Global patterns in endemicity and vulnerability of soil fungi. https://doi.org/10.1111/gcb.16398 
 
 
 
