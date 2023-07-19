@@ -1,5 +1,5 @@
-## Publications
-**Core publications**
+
+##Core publications
 
 Tedersoo, L., Mikryukov, V., Anslan, S. _et al._, 2021.The Global Soil Mycobiome consortium dataset for boosting fungal diversity research. Fungal Diversity 111, 573–588. [https://doi.org/10.1007/s13225-021-00493-7](https://doi.org/10.1007/s13225-021-00493-7)
 
@@ -7,7 +7,7 @@ Tedersoo, L. _et al._, 2022. Global patterns in endemicity and vulnerability of 
 
 
 
-**Papers using mostly GSMc DNA samples or data**
+##Papers using mostly GSMc DNA samples or data**
 
 Davison, J., Moora, M., Semchenko, M., Adenan, S.B., Ahmed, T., Akhmetzhanova, A.A., Alatalo, J.M., Al‐Quraishy, S., Andriyanova, E., Anslan, S., Bahram, M., Tedersoo, L., Zobel, M., Öpik, M. _et al._, 2021. Temperature and pH define the realised niche space of arbuscular mycorrhizal fungi. New Phytologist 231: 763-776. [https://doi.org/10.1128%2Fspectrum.01489-22](https://doi.org/10.1128%2Fspectrum.01489-22)
 
