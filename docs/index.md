@@ -1,3 +1,4 @@
+<style>body {text-align: justify}</style> 
 
 # The Global Soil Mycobiome consortium
 
