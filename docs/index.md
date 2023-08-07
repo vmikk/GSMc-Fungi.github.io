@@ -38,12 +38,14 @@ Funding of the fieldwork and shipping comes from the GSMc partners. Molecular wo
 
 ## Collaborators
 
-|  **Name**	        |   **Affiliation**	|   **E-mail**	|
+|  **Name**	        |   **Affiliation**	|   **Country**	| **E-mail**|
 |---	            |---	            |---        	|
-|   Leho Tedersoo	|  Mycology and Microbiology Center, University of Tartu, Tartu, Estonia 	| leho.tedersoo at ut.ee	|
-|   	|   	|   	|
-|   	|   	|   	|
-
+| Leho Tedersoo	| Mycology and Microbiology Center, University of Tartu | Estonia 	| leho.tedersoo at ut.ee	|
+| Kessy Abarenkov  | University of Tartu Natural History Museum  	|   Estonia	| kessy.abarenkov at ut.ee |
+|  Urmas Kõljalg	| Institute of Ecology and Earth Sciences, University of Tartu  	| Estonia  	| urmas.koljalg at ut.ee     |
+|  Alexandre Antonelli 	| Royal Botanic Gardens  	| United Kingdom  	| a.antonelli at kew.org     |
+|   	|   	|   	|      |
+|   	|   	|   	|      |
 
 
 
