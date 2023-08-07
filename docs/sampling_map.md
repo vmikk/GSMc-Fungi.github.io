@@ -1,3 +1,7 @@
+<style>body {text-align: justify}</style> 
+
+
+
 # Sampling map
 
 Interactive map displaying the soil sampling locations for the GSMc project, 

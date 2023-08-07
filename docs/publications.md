@@ -1,3 +1,6 @@
+<style>body {text-align: justify}</style> 
+
+
 
 ##Core publications
 

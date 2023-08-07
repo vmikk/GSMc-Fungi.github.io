@@ -1,3 +1,6 @@
+<style>body {text-align: justify}</style> 
+
+
 # Linked projects
 
 [SPUN](https://www.spun.earth) – Global conservation of mycorrhizal fungi  
