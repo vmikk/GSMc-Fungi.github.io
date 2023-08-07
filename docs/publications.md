@@ -10,7 +10,7 @@ Tedersoo, L. _et al._, 2022. Global patterns in endemicity and vulnerability of 
 
 
 
-##Papers using mostly GSMc DNA samples or data**
+##Papers using mostly GSMc DNA samples or data
 
 Davison, J., Moora, M., Semchenko, M., Adenan, S.B., Ahmed, T., Akhmetzhanova, A.A., Alatalo, J.M., Al‐Quraishy, S., Andriyanova, E., Anslan, S., Bahram, M., Tedersoo, L., Zobel, M., Öpik, M. _et al._, 2021. Temperature and pH define the realised niche space of arbuscular mycorrhizal fungi. New Phytologist 231: 763-776. [https://doi.org/10.1128%2Fspectrum.01489-22](https://doi.org/10.1128%2Fspectrum.01489-22)
 

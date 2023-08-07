@@ -38,9 +38,12 @@ Funding of the fieldwork and shipping comes from the GSMc partners. Molecular wo
 
 ## Collaborators
 
+|   Name	|   Affiliation	|   E-mail	|   Twitter	|   
+|---	|---	|---	|---	|---	|
+|   Leho Tedersoo	|   Mycology and Microbiology Center, University of Tartu, Tartu, Estonia	|   leho dot tedersoo at ut dot ee	|   @tedersoo	|
+|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	
 
-[Link text](https://website-name.com)
-[Link text](publications.md)
 
 
 
