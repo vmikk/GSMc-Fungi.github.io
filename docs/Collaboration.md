@@ -1,8 +1,7 @@
 
+## Collaboration options
 
-## Collaborators
-
-Would you like to be a collaborator? Here's how you can be. 
+If you would like to contribute to the work of the Global Soil Mycobiome consortium, here's a video tutorial on how to collect soil samples. 
 
 <iframe
     width="640"
@@ -14,6 +13,12 @@ Would you like to be a collaborator? Here's how you can be.
 >
 </iframe>
 
+
+
+
+## Collaborators
+
+A list of researches who have already contributed to the consortium.
 
 |  **Name**	        |   **Affiliation**	|   **Country**	|
 |---	            |---	            |---        	|
