@@ -26,7 +26,7 @@ The dataset provided by the Global Soil Mycobiome consortium (GSMc) represents a
 
 (7)	The dataset is freely available to all researchers in a ready-to-use format to encourage incorporation of soil fungi into macroecological analyses and boost understanding of the diversity and distribution of fungi. 
 
-A new release including a short data paper is planned for the year 2024. The progress and early access can be followed via [Twitter, @tedersoo](https://twitter.com/tedersoo?s=20). 
+A new release including a short data paper is planned for the year 2024. The progress and early access can be followed via [X, @tedersoo](https://twitter.com/tedersoo?s=20). 
 
 
 ## Funding
