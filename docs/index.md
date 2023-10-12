@@ -1,7 +1,9 @@
 <style>body {text-align: justify}</style> 
 
 # The Global Soil Mycobiome consortium
-![logo](../images/GSMc%20_transp%20_bgr%20_frame.png)
+
+![GSMc_transp_bg_frame.png](../images/GSMc%20_transp%20_bgr%20_frame.png)
+
 ## About
 
 Fungi are an incredibly diverse group of organisms that play a crucial role in providing a wide range of ecosystem services. Despite their importance, fungi have received far less attention compared to animals and plants. As a result, we have limited knowledge about the distribution patterns and conservation needs of fungi. 
