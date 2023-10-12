@@ -31,7 +31,7 @@ A new release including a short data paper is planned for the year 2024. The pro
 
 # Funding
 
-Funding of the fieldwork and shipping comes from the GSMc partners. Molecular work is performed by students in the MMC lab and is funded by the following grants: Estonian Science Foundation (grants PRG632, rein), MOBERC, EEA and Norway grants, Novo Nordisk Foundation and King Saud University (DSFP-2021-2023).
+Funding of the fieldwork and shipping comes from the GSMc partners. Molecular work is performed by students in the MMC lab and is funded by the following grants: Estonian Science Foundation (grants PRG632, PRG1615), MOBERC, EEA and Norway grants, Novo Nordisk Foundation and King Saud University (DSFP-2021-2023).
 
 
 
