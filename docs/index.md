@@ -1,10 +1,6 @@
 <style>body {text-align: justify}</style> 
 
 # The Global Soil Mycobiome consortium
-
-![GSMc_transp_bgr_frame](../images/GSMc%20_transp%20_bgr%20_frame.png)
-
-
 <img src=" images/../assets/images/GSMc_transp_bgr.png">
 ## About
 
