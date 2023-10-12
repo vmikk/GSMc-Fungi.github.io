@@ -2,7 +2,7 @@
 
 # The Global Soil Mycobiome consortium
 
-![GSMc_transp_bg_frame.png](../images/GSMc%20_transp%20_bgr%20_frame.png)
+![GSMc_transp_bgr_frame.png](../images/GSMc%20_transp%20_bgr%20_frame.png)
 
 ## About
 
