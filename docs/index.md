@@ -1,7 +1,8 @@
 <style>body {text-align: justify}</style> 
 
 <img src=" images/../assets/images/GSMc_transp_bgr.png">
-## About
+
+# About
 
 Fungi are an incredibly diverse group of organisms that play a crucial role in providing a wide range of ecosystem services. Despite their importance, fungi have received far less attention compared to animals and plants. As a result, we have limited knowledge about the distribution patterns and conservation needs of fungi. 
 **The Global Soil Mycobiome Consortium (GSMc)**, led by researchers in the [Mycology and Microbiology Center (MMC), University of Tartu](https://mmc.ut.ee/home-1) was initiated in 2015 to fill this gap in our understanding. Building on the success of [a previous global soil fungal survey](https://doi.org/10.1126/science.1256688), the GSMc has significantly expanded the geographical and habitat coverage of soil fungi.
@@ -28,7 +29,7 @@ The dataset provided by the Global Soil Mycobiome consortium (GSMc) represents a
 A new release including a short data paper is planned for the year 2024. The progress and early access can be followed via [X, @tedersoo](https://twitter.com/tedersoo?s=20). 
 
 
-## Funding
+# Funding
 
 Funding of the fieldwork and shipping comes from the GSMc partners. Molecular work is performed by students in the MMC lab and is funded by the following grants: Estonian Science Foundation (grants PRG632, rein), MOBERC, EEA and Norway grants, Novo Nordisk Foundation and King Saud University (DSFP-2021-2023).
 
